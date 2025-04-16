@@ -39,7 +39,7 @@ public static void main(String[] args) {
     final int i=10;
     System.out.println(i);
 
-    int x=10;
+    //int x=10;
     //x="string";
 
 }
